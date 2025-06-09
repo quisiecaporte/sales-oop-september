@@ -1,6 +1,5 @@
 <?php
 
-// this is product class
     require_once "Database.php";
 
     class Product extends Database {
