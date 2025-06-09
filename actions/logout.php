@@ -6,3 +6,5 @@
 
     header("location: ../views");
     exit;
+
+?>
