@@ -1,6 +1,7 @@
 <?php
     require "Database.php";
 
+    // this is user class
     class User extends Database{
         
         public function register($first_name, $last_name, $username, $password){
