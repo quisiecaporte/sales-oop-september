@@ -6,5 +6,5 @@
 
     header("location: ../views");
     exit;
-
+// this is logout version2
 ?>
