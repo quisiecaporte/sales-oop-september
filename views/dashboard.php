@@ -12,7 +12,7 @@
 
     $product_list = $product->displayProducts();
 
-// this is dashboard version2
+// upload dashboard to version2
 ?>
 <!DOCTYPE html>
 <html lang="en">
