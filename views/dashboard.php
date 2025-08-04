@@ -74,6 +74,8 @@
                     <tbody>
                         <?php
                             /*
+                            $product_list is an indexed array. So, to read it I am using foreach.
+                            
                             $product_list
                                 [
                                     0 => ['id' => 1, 'product_name' => 'Apple', 'price' => 3.00, 'quantity' => 2],

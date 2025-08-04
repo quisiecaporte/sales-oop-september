@@ -21,6 +21,7 @@
             $sql = "SELECT * FROM products";
 
             if($result = $this->conn->query($sql)){
+                $items = []; // indexed array
                 while($item = $result->fetch_assoc()){
                     $items[] = $item;
                     /*
