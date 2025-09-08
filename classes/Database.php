@@ -1,5 +1,7 @@
 <?php
 
+    // This is a new code branch main
+
     class Database {
         private $server_name = "localhost";
         private $db_username = "root";
