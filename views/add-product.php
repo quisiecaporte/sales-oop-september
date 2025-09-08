@@ -47,7 +47,7 @@
                             <label for="price" class="form-label small text-secondary">Price</label>
                             <div class="input-group mb-3">
                                 <span class="input-group-text" id="price-tag">$</span>
-                                <input type="number" name="price" id="price" class="form-control" aria-label="Price" aria-describedby="price-tag">
+                                <input type="number" name="price" id="price" class="form-control" aria-label="Price" aria-describedby="price-tag" step="0.01">
                             </div>
                         </div>
                         <div class="col-md-6">
