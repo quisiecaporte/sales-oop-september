@@ -2,6 +2,8 @@
 
     // This is a new code branch main
 
+    # This is from local going to github repo
+
     class Database {
         private $server_name = "localhost";
         private $db_username = "root";
